@@ -1,0 +1,22 @@
+Primera vez:
+1) Creo el directorio
+2) voy hacia el directorio
+3) git clone https://github.com/usuario/repoitorio
+4) git status
+5) git add nombre_archivo.extension
+6) git status
+7) git commit -m "mensaje"
+8) git push origin master
+Aqui pedira usuario y password
+Listo...
+
+A partir de la 2da vez NO hace falta hacer:
+git status
+git add nombre_archivo.extension
+git status
+git commit -m "mensaje"
+git push origin master
+Aqui pedira usuario y password
+Listo...
+
+
