@@ -1,22 +1,25 @@
 Primera vez:
-1) Creo el directorio
-2) voy hacia el directorio
-3) git clone https://github.com/usuario/repoitorio
+1) Se Crea el directorio "mkdir"
+2) Se va hacia el directorio "cd"
+3) git clone https://github.com/usuario/repositorio
 4) git status
 5) git add nombre_archivo.extension
 6) git status
 7) git commit -m "mensaje"
 8) git push origin master
-Aqui pedira usuario y password
+     Aqui pedira usuario y password
 Listo...
 
-A partir de la 2da vez NO hace falta hacer:
-git status
-git add nombre_archivo.extension
-git status
-git commit -m "mensaje"
-git push origin master
-Aqui pedira usuario y password
+A partir de la 2da vez:
+1) git status
+2) git add nombre_archivo.extension
+3) git status
+4) git commit -m "mensaje"
+5) git push origin master
+     Aqui pedira usuario y password
 Listo...
 
+**--**
 
+Referencia:
+https://shelllavie.com/sincronizar-repos-github-remoto-y-local/
